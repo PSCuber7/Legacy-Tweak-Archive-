@@ -1,0 +1,32 @@
+<package>
+	<id>com.matthewbenedict.ios.fennec+16</id>
+	<name>lockscreentool</name>
+	<version>3.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>unknown</miniOS>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+		
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change> </change>
+		<change> </change>
+	</changelog>
+	<links>
+		<link>
+			<name>lockscreentool</name>
+			<url>https://github.com/UInt2048/CyberKit</url>
+		</link>
+	</links>
+</package>
